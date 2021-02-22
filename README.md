@@ -2,9 +2,7 @@
 [![Actions Status](https://github.com/lindXdeep/java-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/lindXdeep/java-project-lvl1/actions)
 
 
-```sh
-mvn -N io.takari:maven:wrapper -Dmaven=3.6.3
-```
+[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 
 ```sh
 # просмотреть доступные обновления для зависимостей
