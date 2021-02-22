@@ -10,7 +10,7 @@ install:
 	./mvnw clean install
 
 run:
-	java -jar ./target/java-package-1.0-SNAPSHOT-jar-with-dependencies.jar
+	java -jar ./target/app-1.0-SNAPSHOT-jar-with-dependencies.jar 
 
 build-run: build run
 
